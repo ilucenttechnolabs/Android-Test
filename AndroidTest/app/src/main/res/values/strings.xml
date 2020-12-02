@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Test</string>
+    <string name="api_fail">API Failed</string>
+    <string name="alert_label">Alert</string>
+    <string name="ok_label">OK</string>
+    <string name="empty_username_msg">Please enter Username</string>
+    <string name="empty_password_msg">Please enter Password</string>
+    <string name="success_login_message">You are successfully logged in.</string>
+</resources>
